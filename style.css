@@ -1,0 +1,23 @@
+body
+{
+text-align: center;
+}
+#heading{
+    color: #B439B1;
+    font-family: 'Yatra One', cursive;
+    font-size: 50px;
+    border-top: #B439B1 2px solid;
+    border-bottom: #B439B1 2px solid;
+    width: 500px;
+    padding: 20px;
+
+
+}
+button{
+    background-color: #7B509A;
+    color: white;
+    margin: 10px;
+    font-family: 'Yatra One', cursive;
+    border-bottom: white 2px solid;
+    border-right: white 2px solid;
+}
